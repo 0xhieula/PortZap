@@ -1,0 +1,15 @@
+# ADF local settings
+.claude/
+docs/
+plans/
+
+# Editor / IDE
+.idea/
+.vscode/
+.DS_Store
+
+# Rust build artifacts
+/target
+
+# Built app bundle
+/PortZap.app
